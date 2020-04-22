@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "data": {
+        "entity": {
+            "id": "34ccf311-2a79-48d3-a452-a0eb46b34737",
+            "created": 1587541358736,
+            "type": "INTERNAL_TRANSFER_OWN",
+            "operationType": "DEBIT",
+            "status": "COMPLETED",
+            "pendingReasonDetails": [],
+            "sender": "mibz1@ukr.net",
+            "senderWalletId": "EUR517206125018",
+            "senderAmount": "12.00",
+            "senderCurrency": "EUR",
+            "receiver": "mibz1@ukr.net",
+            "receiverWalletId": "UAH670216710920",
+            "receiverAmount": "341.50",
+            "receiverCurrency": "UAH",
+            "commissionAmount": "0.00",
+            "commissionCurrency": "UAH",
+            "accessType": "DIRECT",
+            "note": ""
+        }
+    }
+}
